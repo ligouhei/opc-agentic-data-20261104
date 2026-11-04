@@ -1,0 +1,15 @@
+{
+  "global_bias_nm": -10,
+  "corner_serif_nm": 0,
+  "component_bias_nm": {},
+  "edge_adjustments": [
+    {
+      "bbox_nm": [596, 268, 941, 288],
+      "bias_nm": 10
+    },
+    {
+      "bbox_nm": [596, 1248, 941, 1268],
+      "bias_nm": 10
+    }
+  ]
+}

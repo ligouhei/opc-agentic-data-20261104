@@ -1,0 +1,23 @@
+{
+  "task": "opc-tf5-0001",
+  "actor_exit": "0",
+  "explicit_submission": true,
+  "canonical_parity_exit": 0,
+  "candidate_count": 2,
+  "semantic_success": true,
+  "finished_at": 1793787504.822287,
+  "selected_candidate": "B",
+  "numerical_pass": true,
+  "final_visual_pass": true,
+  "actual_vision_feedback": true,
+  "frozen_input_preserved": true,
+  "software_healthy": true,
+  "one_step_success": false,
+  "iterative_vision_feedback": true,
+  "multimodal_dataset_qualified": true,
+  "audit_correction": {
+    "reason": "Physical receipt namespace was versioned; resolve the recorded measurement SHA rather than guessing the filename.",
+    "at": 1793787841.7846808,
+    "raw_model_tool_and_physical_data_unchanged": true
+  }
+}
